@@ -41,7 +41,7 @@ Głównym celem artystycznym tego projektu jest pokazanie, że jesteśmy jednocz
 - Python 3.12 zwykle działa; jeśli pojawią się problemy z `mediapipe`, użyj Python 3.11.
 
 Sprawdzenie wersji:
-```bash
+
 python --version
 
 
