@@ -5,6 +5,7 @@ Aplikacja w Pythonie, która w czasie rzeczywistym analizuje obraz z kamery, roz
 Dodatkowo program odtwarza muzykę w formacie WAV w pętli.
 
 Projekt działa lokalnie (bez internetu).
+Głównym celem artystycznym tego projektu jest pokazanie, że jesteśmy jednocześnie milionem różnych ludzi (małp) i że nieustannie się zmieniamy.
 
 ---
 
