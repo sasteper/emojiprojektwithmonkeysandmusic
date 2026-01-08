@@ -8,18 +8,6 @@ Głównym celem artystycznym tego projektu jest pokazanie, że jesteśmy jednocz
 
 ---
 
-## 📌 Opis projektu
-
-Emoji Face Tracker to interaktywny projekt wykorzystujący OpenCV (kamera/okna) oraz MediaPipe (detekcja twarzy i dłoni).  
-W czasie rzeczywistym aplikacja rozpoznaje wybrane stany mimiczne oraz gesty użytkownika i wyświetla odpowiednie emoji — równocześnie w tle odtwarzając muzykę (WAV) w pętli.
-
-Projekt można użyć jako:
-- demonstrację Computer Vision / projekt zaliczeniowy,
-- element streamingu (OBS),
-- interaktywną instalację lub mini‑performance.
-
----
-
 ## 🎯 Funkcje
 
 - Rozpoznawanie mimiki twarzy i prostych gestów z kamery.
