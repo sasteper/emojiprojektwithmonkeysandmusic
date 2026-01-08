@@ -42,6 +42,7 @@ Głównym celem artystycznym tego projektu jest pokazanie, że jesteśmy jednocz
 
 Sprawdzenie wersji:
 
+```bash
 python --version
 
 
