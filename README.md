@@ -2,9 +2,8 @@
 # 🎭 Emoji Face Tracker z muzyką (Python)
 
 Aplikacja w Pythonie, która w czasie rzeczywistym analizuje obraz z kamery, rozpoznaje mimikę twarzy oraz proste gesty i wyświetla odpowiadające im emoji.  
-Dodatkowo program odtwarza muzykę w formacie WAV w pętli.
+Dodatkowo program odtwarza muzykę w formacie WAV w pętli pokazuje tekst.
 
-Projekt działa lokalnie (bez internetu).
 Głównym celem artystycznym tego projektu jest pokazanie, że jesteśmy jednocześnie milionem różnych ludzi (małp) i że nieustannie się zmieniamy.
 
 ---
