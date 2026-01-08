@@ -5,6 +5,7 @@ Aplikacja w Pythonie, która w czasie rzeczywistym analizuje obraz z kamery, roz
 Dodatkowo program odtwarza muzykę w formacie WAV w pętli pokazuje tekst.
 
 Głównym celem artystycznym tego projektu jest pokazanie, że jesteśmy jednocześnie milionem różnych ludzi (małp) i że nieustannie się zmieniamy.
+
 Inspiracją i podstawą technoliczną został projekt https://github.com/aaronhubhachen/emoji-reactor
 ---
 
@@ -100,6 +101,8 @@ Kamera: upewnij się, że działa w innych aplikacjach; na macOS zaakceptuj dost
 Python: najlepsza kompatybilność z 3.10 / 3.11.
 Muzyka: plik musi być WAV (MP3 nie zadziała z bieżącą konfiguracją).
 Biblioteki: jeśli mediapipe ma problem z instalacją na 3.12, użyj 3.11.
+
+
 
 
 ✅ W streszczeniu: Zainstaluj Python 3.10/3.11, doinstaluj wymagane biblioteki, upewnij się, że pliki (app.py, muzyka WAV, folder assets/) są na miejscu i uruchom python app.py — zaakceptuj dostęp do kamery
